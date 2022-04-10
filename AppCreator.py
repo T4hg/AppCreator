@@ -1,4 +1,4 @@
-import sys, os
+import sys, os, ctypes
 from colorama import Fore
 
 def banner():
@@ -78,5 +78,6 @@ sys.exit(app.exec_())
     file.close()
 if __name__ == '__main__':
     os.system("cls")
+    ctypes.windll.kernel32.SetConsoleTitleW(f'AppCreator | Developed by Tahg - GitHub: https://github.com/T4hg/')
     banner()
     creator()
