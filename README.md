@@ -1,7 +1,12 @@
 # AppCreator
 All Plataforms Application Creator - Simple App Creator
 
-<p align="center"><kbd><img src="https://i.postimg.cc/WpkbbxFH/Captura-de-pantalla-2022-04-10-115721.png" width="100%" height="100%" alt="SpuffyCrasher" /></kbd></p>
+<p align="center"><kbd><img src="https://i.postimg.cc/WpkbbxFH/Captura-de-pantalla-2022-04-10-115721.png" width="100%" height="100%" alt="AppCreator" /></kbd></p>
+
+**Example**
+<p align="center"><kbd><img src="https://i.postimg.cc/26CF8nTH/Whats-App-Image-2022-04-10-at-11-44-45-AM.jpg" width="100%" height="100%" alt="Example" /></kbd></p>
+
+
 
 **Steps**
 > 1. Install requeriments.txt
