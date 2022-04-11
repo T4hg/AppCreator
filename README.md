@@ -9,7 +9,7 @@ All Plataforms Application Creator - Simple App Creator
 
 
 **Steps**
-> 1. Install the requirements (PyQt5, Tkinter, datetime, colorama, requests, ctypes)
+> 1. Install requirements.py (Python3 requirements.py)
 > 2. Open AppCreator.py (python3 AppCreator.py)
 > 3. Complete the steps
 > 4. Open the application you have created
